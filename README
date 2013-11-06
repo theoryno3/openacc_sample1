@@ -1,3 +1,5 @@
+
+
 Initial kernel
 ==============
 gpudev1@ip-10-16-9-218:~/exercises/openacc/001-laplace2D-kernels$ ./laplace2d_acc 
